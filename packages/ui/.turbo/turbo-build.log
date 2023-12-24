@@ -1,0 +1,16 @@
+
+> ui@1.0.0 build C:\Users\User\food\packages\ui
+> rm -rf dist && tsc
+
+../../node_modules/.pnpm/@types+prop-types@15.7.11/node_modules/@types/prop-types/index.d.ts(12,41): error TS2304: Cannot find name 'Iterable'.
+../../node_modules/.pnpm/@types+react@18.2.45/node_modules/@types/react/index.d.ts(234,26): error TS2304: Cannot find name 'Iterable'.
+../../node_modules/.pnpm/@types+react@18.2.45/node_modules/@types/react/index.d.ts(242,10): error TS2456: Type alias 'ReactNode' circularly references itself.
+../../node_modules/.pnpm/@types+react@18.2.45/node_modules/@types/react/index.d.ts(246,11): error TS2304: Cannot find name 'Iterable'.
+../../node_modules/.pnpm/@types+react@18.2.45/node_modules/@types/react/index.d.ts(458,23): error TS2583: Cannot find name 'Set'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+../../node_modules/.pnpm/@types+scheduler@0.16.8/node_modules/@types/scheduler/tracing.d.ts(60,37): error TS2583: Cannot find name 'Set'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+../../node_modules/.pnpm/@types+scheduler@0.16.8/node_modules/@types/scheduler/tracing.d.ts(66,36): error TS2583: Cannot find name 'Set'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+../../node_modules/.pnpm/@types+scheduler@0.16.8/node_modules/@types/scheduler/tracing.d.ts(76,35): error TS2583: Cannot find name 'Set'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+../../node_modules/.pnpm/@types+scheduler@0.16.8/node_modules/@types/scheduler/tracing.d.ts(82,35): error TS2583: Cannot find name 'Set'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+../../node_modules/.pnpm/@types+scheduler@0.16.8/node_modules/@types/scheduler/tracing.d.ts(86,14): error TS2583: Cannot find name 'Set'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+../../node_modules/.pnpm/@types+scheduler@0.16.8/node_modules/@types/scheduler/tracing.d.ts(98,40): error TS2583: Cannot find name 'Set'. Do you need to change your target library? Try changing the 'lib' compiler option to 'es2015' or later.
+ ELIFECYCLE  Command failed with exit code 2.
